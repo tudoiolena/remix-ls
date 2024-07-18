@@ -1,0 +1,1 @@
+import{a as l,g as e}from"/build/_shared/chunk-MMNR33OD.js";import{b as R,c as t,e as r}from"/build/_shared/chunk-MFPRU5OA.js";var i=R(o=>{"use strict";var n=l();o.createRoot=n.createRoot,o.hydrateRoot=n.hydrateRoot;var m});var c=t(i(),1),s=t(r(),1),u=document.getElementById("root"),y=(0,c.createRoot)(u);y.render((0,s.jsx)(e,{}));
